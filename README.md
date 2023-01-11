@@ -8,4 +8,5 @@ The dashboard comprises of following steps:
 •	bar chart highlighting the top ten microbial species (OTUs or operational taxonomic units).
 •	bubble chart featuring all microbial species.
 •	gauge represents the frequency of belly button washes weekly for each individual.
-
+Here is the link of my Project deployment to GITHUB.
+https://github.com/rubab-malik/belly-button-challenge
